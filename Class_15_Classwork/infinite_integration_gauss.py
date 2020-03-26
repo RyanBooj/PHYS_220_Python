@@ -1,7 +1,8 @@
 from gaussxw import gaussxwab
 import numpy as np
 
-
+# F(z) has already had the change of variable
+# See Class 15 powerpoint for change of variable forms
 def f(z):
     return np.exp(-z**2/(1-z)**2)/(1-z)**2
 
