@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8637196-c1aa-4206-b9a4-f91bd696a7eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_Activity6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Class_14_Classwork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Class_14_Classwork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,12 +75,26 @@
       <option name="presentableId" value="Default" />
       <updated>1585060101865</updated>
     </task>
+    <task id="LOCAL-00001" summary="Started Class Activity 6">
+      <created>1585065072354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585065072354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Started Class Activity 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started Class Activity 6" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="112" y="119" key="CommitChangelistDialog2" timestamp="1585065070882">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="112" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1585065070882" />
     <state x="355" y="267" key="FileChooserDialogImpl" timestamp="1585064696251">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -109,6 +119,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="77" y="158" width="998" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1585064879366" />
+    <state x="79" y="258" key="Vcs.Push.Dialog.v2" timestamp="1585065076239">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="79" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1585065076239" />
     <state x="661" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1585062347993">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
