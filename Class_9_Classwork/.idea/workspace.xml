@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45adbed3-af08-4a6b-b950-6f72aadc4984" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Midterm_Project/Question_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm_Project/.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm_Project/Midterm_in_progress.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm_Project/bessel_functions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm_Project/diffraction.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterm_Project/Question_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Midterm_Project/Question_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Class_8_Classwork" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager">
