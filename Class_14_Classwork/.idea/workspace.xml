@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8637196-c1aa-4206-b9a4-f91bd696a7eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Midterm_Project/Q3_Graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm_Project/Question_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm_Project/gaussxw.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class_9_Classwork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Class_9_Classwork/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterm_Project/Midterm_in_progress.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +38,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="D:/Applications/PythonInterpreter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Class_15_Classwork" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -95,10 +100,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="112" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1585065070882" />
-    <state x="355" y="267" key="FileChooserDialogImpl" timestamp="1585064696251">
+    <state x="355" y="267" key="FileChooserDialogImpl" timestamp="1585881519686">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="355" y="267" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585064696251" />
+    <state x="355" y="267" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585881519686" />
     <state width="936" height="285" key="GridCell.Tab.0.bottom" timestamp="1585062886465">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

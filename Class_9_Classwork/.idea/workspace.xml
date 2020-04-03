@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45adbed3-af08-4a6b-b950-6f72aadc4984" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Midterm_Project/.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm_Project/Midterm_in_progress.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm_Project/bessel_functions.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Midterm_Project/diffraction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm_Project/Q3_Graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm_Project/Question_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Midterm_Project/gaussxw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class_14_Classwork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Class_14_Classwork/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Midterm_Project/Question_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Midterm_Project/Question_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterm_Project/Midterm_in_progress.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +44,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="D:\Applications\PythonInterpreter\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Integrals.py" />
@@ -78,11 +78,15 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="686" y="217" key="FileChooserDialogImpl" timestamp="1585786831703">
+    <state x="199" y="143" key="#Integrals" timestamp="1585883624546">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="199" y="143" key="#Integrals/0.0.1920.1050@0.0.1920.1050" timestamp="1585883624546" />
+    <state x="686" y="217" key="FileChooserDialogImpl" timestamp="1585881267422">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1583888399722" />
-    <state x="686" y="217" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585786831703" />
+    <state x="686" y="217" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585881267422" />
     <state width="1537" height="221" key="GridCell.Tab.0.bottom" timestamp="1583853355445">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
