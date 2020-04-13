@@ -62,6 +62,7 @@ def main():
 
 
 main()
+# Question 1 response:
 
 # The graphs show the difference between the accuracy of the calculations. When
 # the program is run with smaller values of N, the difference is small, shown by
