@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import least_squares
 
+
 def read_data():
     # initialize lists for data
     distance = []  # distance from object in centimeters
@@ -117,5 +118,5 @@ def main():
 
     # plt.show()
 
-main()
 
+main()
